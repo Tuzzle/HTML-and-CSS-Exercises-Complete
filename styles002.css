@@ -9,12 +9,12 @@ font-family: Verdana, DejaVu Sans, sans-serif;
     font-size: 24px
 }
 #Two {
-    color: rgb(9, 9, 216);
+    color: #0000ff;
     font-size: 36px;
 }
 #four {
-    background-color: rgb(127, 216, 127);
+    background-color: hsl(120, 100%, 75%);
     font-size: 24px;
     font-weight: bold;
-    
+
 }
